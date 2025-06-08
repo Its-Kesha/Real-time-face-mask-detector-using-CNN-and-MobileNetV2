@@ -1,3 +1,5 @@
+#Real-Time Face Mask Detector using CNN and MobileNetV2
+
  After the breakout of the worldwide pandemic COVID-19, there arose a severe need
  of protection mechanisms, face mask being the primary one. Face mask detection
  is used to identify whether a person is wearing a mask or not. The monitoring
