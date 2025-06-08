@@ -1,4 +1,4 @@
-#Real-time-face-mask-detector-using-CNN-and-MobileNetV2
+<H1> Real-Time Face Mask Detector using CNN and MobileNetV2</H1>
 
  After the breakout of the worldwide pandemic COVID-19, there arose a severe need
  of protection mechanisms, face mask being the primary one. Face mask detection
